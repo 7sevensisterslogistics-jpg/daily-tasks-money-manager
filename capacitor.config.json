@@ -1,0 +1,6 @@
+{
+  "appId": "com.sevensisterslogistics.dailymanager",
+  "appName": "Daily Tasks Money Manager",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
